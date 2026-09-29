@@ -16,10 +16,9 @@ I'm interested in quantitative research, especially empirical finance, time-seri
 
 The option-pricing study is available above. I'm preparing the empirical research and forecasting work as documented repositories.
 
-### Learning repositories
+### Learning project
 
 - [Iris classification](https://github.com/andresat0/ML-Projects) — an introductory decision-tree exercise.
-- [NYU MSFE bootcamp](https://github.com/andresat0/bootcamp_andres_aguirre) — Python coursework from the financial-engineering bootcamp.
 
 ### Tools
 
