@@ -16,6 +16,6 @@ I'm interested in quantitative research, especially empirical finance, time-seri
 
 ### Tools
 
-Python · NumPy · pandas · SciPy · scikit-learn · statsmodels · SQL · Stata · MATLAB · R
+Python · NumPy · pandas · SciPy · scikit-learn · statsmodels · SQL · Stata · MATLAB
 
 [LinkedIn](https://www.linkedin.com/in/andres-aguirre-torres/)
