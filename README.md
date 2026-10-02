@@ -1,6 +1,6 @@
 # Andres Aguirre Torres
 
-I'm an M.S. Financial Engineering student at **NYU Tandon**. I earned B.S. degrees in **Mathematics, Finance, and Economics** at Penn State, where I was a Schreyer Honors Scholar.
+I'm an M.S. in Financial Engineering student at **NYU Tandon**. I earned three B.S. degrees in **Mathematics, Finance, and Economics** at Penn State, where I was a Schreyer Honors Scholar.
 
 I'm interested in quantitative research, especially empirical finance, time-series methods, and numerical approaches to derivatives pricing.
 
